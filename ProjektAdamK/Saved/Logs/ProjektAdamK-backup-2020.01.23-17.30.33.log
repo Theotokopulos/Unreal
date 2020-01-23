@@ -1,0 +1,1039 @@
+﻿Log file open, 01/20/20 15:29:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjektAdamK
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.405745
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.105s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="Theotokopulos" -epicuserid=e6512cb8604744178bf061b68307babf -epiclocale=pl-PL
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.01.20-14.29.27:437][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.20-14.29.27:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.20-14.29.27:444][  0]LogHAL: Display: Platform has ~ 16 GB [17015590912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.20-14.29.27:444][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.01.20-14.29.27:444][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.20-14.29.27:445][  0]LogInit: Computer: DESKTOP-UNUEO59
+[2020.01.20-14.29.27:445][  0]LogInit: User: torra
+[2020.01.20-14.29.27:445][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.01.20-14.29.27:445][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.20-14.29.27:445][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.01.20-14.29.27:445][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.20-14.29.27:445][  0]LogMemory: Process Physical Memory: 101.74 MB used, 101.75 MB peak
+[2020.01.20-14.29.27:445][  0]LogMemory: Process Virtual Memory: 85.98 MB used, 85.98 MB peak
+[2020.01.20-14.29.27:445][  0]LogMemory: Physical Memory: 7288.52 MB used,  8938.82 MB free, 16227.33 MB total
+[2020.01.20-14.29.27:445][  0]LogMemory: Virtual Memory: 4640.64 MB used,  8938.82 MB free, 134217728.00 MB total
+[2020.01.20-14.29.27:463][  0]LogInit: Using OS detected language (pl-PL).
+[2020.01.20-14.29.27:463][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.01.20-14.29.27:464][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.01.20-14.29.27:466][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2020.01.20-14.29.27:496][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.20-14.29.27:496][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.20-14.29.27:711][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.20-14.29.27:711][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.20-14.29.27:787][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.01.20-14.29.27:787][  0]LogD3D11RHI:       3962/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.20-14.29.27:800][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.01.20-14.29.27:800][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.20-14.29.27:802][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.20-14.29.27:802][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.20-14.29.27:802][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.20-14.29.27:826][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.20-14.29.27:826][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.20-14.29.27:826][  0]LogWindows: EnumDisplayDevices:
+[2020.01.20-14.29.27:826][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.01.20-14.29.27:826][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.20-14.29.27:827][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.20-14.29.27:827][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.01.20-14.29.27:827][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.01.20-14.29.27:827][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.01.20-14.29.27:827][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.01.20-14.29.27:827][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.01.20-14.29.27:866][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.20-14.29.27:881][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.20-14.29.27:882][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Intermediate/Shaders/WorkingDirectory/12740/).
+[2020.01.20-14.29.27:882][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/torra/AppData/Local/Temp/UnrealShaderWorkingDir/A4DF043A45B7F29E5A3939AAE7907E4F/'.
+[2020.01.20-14.29.28:133][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.01.20-14.29.28:146][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.01.20-14.29.28:158][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.01.20-14.29.28:171][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.01.20-14.29.28:184][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.01.20-14.29.28:196][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.01.20-14.29.28:209][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.01.20-14.29.28:222][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.01.20-14.29.28:228][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.20-14.29.28:302][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.01.20-14.29.28:361][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.20-14.29.28:361][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.20-14.29.28:383][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.20-14.29.28:383][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.20-14.29.28:394][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.01.20-14.29.28:404][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.01.20-14.29.28:415][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.01.20-14.29.28:426][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.01.20-14.29.28:434][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.20-14.29.28:434][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.20-14.29.28:492][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.20-14.29.28:492][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.20-14.29.28:492][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.20-14.29.29:155][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.20-14.29.29:203][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/torra/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.01.20-14.29.29:203][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/torra/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.01.20-14.29.29:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.20-14.29.29:203][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.20-14.29.29:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.20-14.29.29:203][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.20-14.29.29:216][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.20-14.29.29:228][  0]LogDerivedDataCache: Using Local data cache path C:/Users/torra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.20-14.29.29:228][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.20-14.29.29:228][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.20-14.29.29:243][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.20-14.29.29:245][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.20-14.29.29:245][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.20-14.29.29:317][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2020.01.20-14.29.29:583][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.20-14.29.29:698][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.01.20-14.29.29:701][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.01.20-14.29.29:701][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.20-14.29.29:701][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.20-14.29.29:701][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.01.20-14.29.29:714][  0]LogNetVersion: ProjektAdamK 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1935249037)
+[2020.01.20-14.29.30:127][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.073062 seconds
+[2020.01.20-14.29.30:132][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.01.20-14.29.30:132][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2020.01.20-14.29.30:132][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.20-14.29.30:928][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.20-14.29.30:940][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.20-14.29.31:072][  0]SourceControl: Source control is disabled
+[2020.01.20-14.29.31:072][  0]SourceControl: Source control is disabled
+[2020.01.20-14.29.31:073][  0]SourceControl: Source control is disabled
+[2020.01.20-14.29.31:074][  0]SourceControl: Source control is disabled
+[2020.01.20-14.29.31:226][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.20-14.29.31:301][  0]LogOcInput: OculusInput pre-init called
+[2020.01.20-14.29.31:353][  0]LogEngine: Initializing Engine...
+[2020.01.20-14.29.31:354][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.20-14.29.31:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.20-14.29.31:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.20-14.29.31:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.20-14.29.31:355][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.20-14.29.31:529][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.20-14.29.31:541][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.20-14.29.31:563][  0]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-14.29.31:609][  0]LogInit: FAudioDevice initialized.
+[2020.01.20-14.29.31:609][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.20-14.29.31:708][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/torra/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.01.20-14.29.31:712][  0]LogInit: Texture streaming: Enabled
+[2020.01.20-14.29.31:730][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.20-14.29.31:742][  0]LogInit: Transaction tracking system initialized
+[2020.01.20-14.29.31:764][  0]BlueprintLog: New page: Editor Load
+[2020.01.20-14.29.31:838][  0]LocalizationService: Localization service is disabled
+[2020.01.20-14.29.32:061][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.20-14.29.32:061][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.20-14.29.32:061][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.01.20-14.29.32:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.20-14.29.32:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.20-14.29.32:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.20-14.29.32:061][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.20-14.29.32:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/torra/Documents/Unreal Projects/ProjektAdamK/Content/' took 0.01s
+[2020.01.20-14.29.32:179][  0]SourceControl: Source control is disabled
+[2020.01.20-14.29.32:179][  0]Cmd: MAP LOAD FILE="../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.20-14.29.32:179][  0]LightingResults: New page: Lighting Build
+[2020.01.20-14.29.32:182][  0]MapCheck: New page: Map Check
+[2020.01.20-14.29.32:182][  0]LightingResults: New page: Lighting Build
+[2020.01.20-14.29.32:459][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.01.20-14.29.32:466][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.20-14.29.32:489][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.20-14.29.32:557][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68,026ms to complete.
+[2020.01.20-14.29.32:557][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.378
+[2020.01.20-14.29.32:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-14.29.32:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-14.29.32:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-14.29.32:677][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-14.29.32:684][  0]LogCollectionManager: Loaded 0 collections in 0.002115 seconds
+[2020.01.20-14.29.32:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Collections/' took 0.01s
+[2020.01.20-14.29.32:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/torra/Documents/Unreal Projects/ProjektAdamK/Content/Developers/torra/Collections/' took 0.01s
+[2020.01.20-14.29.32:725][  0]LogFileCache: Scanning file cache for directory 'C:/Users/torra/Documents/Unreal Projects/ProjektAdamK/Content/Collections/' took 0.01s
+[2020.01.20-14.29.32:725][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.20-14.29.32:732][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2572 classes and 603 folders.
+[2020.01.20-14.29.32:739][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.20-14.29.32:794][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.20-14.29.32:798][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.01.20-14.29.32:811][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.20-14.29.32:813][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.20-14.29.32:817][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.20-14.29.32:885][  0]LogRenderer: Reallocating scene render targets to support 964x488 Format 10 NumSamples 1 (Frame:1).
+[2020.01.20-14.29.33:018][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.20-14.29.33:018][  0]LogLoad: (Engine Initialization) Total time: 7.68 seconds
+[2020.01.20-14.29.33:018][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.20-14.29.33:055][  0]LogAssetRegistry: Asset discovery search completed in 3.7602 seconds
+[2020.01.20-14.29.33:058][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.01.20-14.29.33:058][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000152 seconds (updated 0 objects)
+[2020.01.20-14.29.33:059][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.20-14.29.33:255][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-14.29.35:434][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-14.29.35:995][163]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-14.29.37:027][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-14.29.37:033][224]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2020.01.20-14.29.37:461][224]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2020.01.20-14.29.38:035][224]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.20-14.30.02:508][676]LogSlate: Window 'Minimal_Default - Level Blueprint Editor' being destroyed
+[2020.01.20-14.30.02:513][676]LogSlate: Window 'Minimal_Default - Level Blueprint Editor' being destroyed
+[2020.01.20-14.30.08:404][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-14.30.10:041][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-14.30.12:709][284]Cmd: MAP LOAD FILE="../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Content/StarterContent/Maps/Adam.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.20-14.30.12:728][284]LightingResults: New page: Lighting Build
+[2020.01.20-14.30.12:729][284]LoadErrors: New page: Loading map: Adam.umap
+[2020.01.20-14.30.12:730][284]MapCheck: New page: Map Check
+[2020.01.20-14.30.12:730][284]LightingResults: New page: Lighting Build
+[2020.01.20-14.30.12:799][284]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-14.30.12:803][284]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.20-14.30.12:849][284]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.20-14.30.12:926][284]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76,123ms to complete.
+[2020.01.20-14.30.12:926][284]LogFileHelpers: Loading map 'Adam' took 0.218
+[2020.01.20-14.30.12:927][284]LogSlate: Window 'Open Level' being destroyed
+[2020.01.20-14.30.18:442][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-14.30.43:302][775]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam
+[2020.01.20-14.30.43:544][776]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.20-14.33.13:940][400]LogEditorTransaction: Undo Add Node
+[2020.01.20-14.40.13:932][213]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.041 s
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: 
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1154]
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: 
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: Stack: 
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa241f71f6 UE4Editor-Core.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa23f30c92 UE4Editor-Core.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa23f4b356 UE4Editor-Core.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1ef4ec6a UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa22764c38 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1c31c9a4 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1c2afee1 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1db9df4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1ff5aea3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa23a0e036 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1d73ecd6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1d73f640 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1d782e13 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1d77f60b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1e05da43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1db6bac7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1db04412 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1dcd6ae6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa1e03f6e1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ff77ab25cbd UE4Editor.exe!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ff77ab35b3c UE4Editor.exe!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ff77ab35bba UE4Editor.exe!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ff77ab43dac UE4Editor.exe!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ff77ab45aaa UE4Editor.exe!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa99a07974 KERNEL32.DLL!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: [Callstack] 0x00007ffa9a67a271 ntdll.dll!UnknownFunction []
+[2020.01.20-14.40.13:932][213]LogOutputDevice: Error: 
+[2020.01.20-14.40.13:935][213]LogStats:                SubmitErrorReport -  0.000 s
+[2020.01.20-14.40.14:771][213]LogStats:                    SendNewReport -  0.836 s
+[2020.01.20-14.40.14:771][213]LogStats:             FDebug::EnsureFailed -  1.879 s
+[2020.01.20-14.40.14:876][213]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Adam_Auto1CA3E1C324E45963B305BAA9E1C678F06.tmp' to '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Autosaves/Game/StarterContent/Maps/Adam_Auto1.umap'
+[2020.01.20-14.40.14:881][213]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Adam' took 2.027
+[2020.01.20-14.40.14:881][213]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.027
+[2020.01.20-14.55.16:149][ 84]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-14.56.56:608][938]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-14.57.03:874][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-14.57.05:930][974]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-14.57.22:418][118]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-14.57.26:994][163]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-14.57.39:925][250]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-14.58.36:184][795]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.00.02:827][571]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.00.41:403][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.01.52:465][503]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.05.32:014][491]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.06.28:718][ 17]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.07.35:710][612]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.08.11:781][887]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.09.28:106][537]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.09.40:549][655]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.13.12:091][338]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.13.56:962][683]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.14.06:258][723]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.14.14:976][787]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.14.31:280][875]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.14.38:622][908]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.16.28:806][663]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.16.45:312][781]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.17.00:257][886]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.17.00:759][887]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.17.34:048][136]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.20.30:440][343]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.21.38:484][859]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.22.03:693][ 64]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.01.20-15.25.35:206][531]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Adam_Auto2197FEBFD46ECE1DF78312BB969970EE4.tmp' to '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Autosaves/Game/StarterContent/Maps/Adam_Auto2.umap'
+[2020.01.20-15.25.35:209][531]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Adam' took 0.140
+[2020.01.20-15.25.35:209][531]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.140
+[2020.01.20-15.34.47:441][554]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.34.47:451][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.34.47:451][554]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.34.47:453][554]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.34.47:564][554]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2020.01.20-15.34.47:576][554]PIE: New page: PIE session: Adam (20 sty 2020, 17:34:47)
+[2020.01.20-15.34.47:576][554]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.34.47:578][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002193s)
+[2020.01.20-15.34.47:579][554]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.34.47:579][554]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2020.01.20-15.34.47:579][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003118s)
+[2020.01.20-15.34.47:621][554]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.34.47:664][554]LogInit: FAudioDevice initialized.
+[2020.01.20-15.34.47:708][554]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.34.47:710][554]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.34.47
+[2020.01.20-15.34.47:710][554]LogWorld: Bringing up level for play took: 0.000579
+[2020.01.20-15.34.47:731][554]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2020.01.20-15.34.47:731][554]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,262
+[2020.01.20-15.34.47:731][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.34.56:797][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.34.56:797][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.34.56:833][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.34.56:834][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.34.56:862][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.34.56:912][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.01.20-15.35.44:736][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-15.35.44:886][968]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Adam_Auto36AD2C7EB41A5320A636EFA914B8AC994.tmp' to '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Autosaves/Game/StarterContent/Maps/Adam_Auto3.umap'
+[2020.01.20-15.35.44:888][968]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Adam' took 0.142
+[2020.01.20-15.35.44:888][968]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.142
+[2020.01.20-15.35.45:620][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-15.36.21:431][920]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.36.21:441][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.36.21:441][920]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.36.21:443][920]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.36.21:552][920]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2020.01.20-15.36.21:552][920]PIE: New page: PIE session: Adam (20 sty 2020, 17:36:21)
+[2020.01.20-15.36.21:552][920]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.36.21:554][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002045s)
+[2020.01.20-15.36.21:555][920]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.36.21:555][920]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2020.01.20-15.36.21:555][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.002850s)
+[2020.01.20-15.36.21:595][920]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.36.21:636][920]LogInit: FAudioDevice initialized.
+[2020.01.20-15.36.21:667][920]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.36.21:668][920]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.36.21
+[2020.01.20-15.36.21:668][920]LogWorld: Bringing up level for play took: 0.000533
+[2020.01.20-15.36.21:681][920]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,211
+[2020.01.20-15.36.21:681][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.36.25:674][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-15.36.41:627][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.36.41:627][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.36.41:662][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.36.41:662][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.36.41:689][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.36.41:730][966]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.20-15.37.52:444][613]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.37.52:454][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.37.52:455][613]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.37.52:457][613]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.37.52:565][613]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2020.01.20-15.37.52:565][613]PIE: New page: PIE session: Adam (20 sty 2020, 17:37:52)
+[2020.01.20-15.37.52:565][613]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.37.52:568][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002158s)
+[2020.01.20-15.37.52:568][613]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.37.52:568][613]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2020.01.20-15.37.52:568][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.002987s)
+[2020.01.20-15.37.52:611][613]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.37.52:654][613]LogInit: FAudioDevice initialized.
+[2020.01.20-15.37.52:691][613]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.37.52:692][613]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.37.52
+[2020.01.20-15.37.52:692][613]LogWorld: Bringing up level for play took: 0.000661
+[2020.01.20-15.37.52:705][613]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 1,235
+[2020.01.20-15.37.52:705][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.37.56:678][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.37.56:678][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.37.56:717][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.37.56:717][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.37.56:742][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.37.56:791][853]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.20-15.38.00:940][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-15.45.09:107][680]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.45.09:118][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.45.09:118][680]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.45.09:120][680]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.45.09:229][680]LogPlayLevel: PlayLevel: Blueprint regeneration took 111 ms (1 blueprints)
+[2020.01.20-15.45.09:229][680]PIE: New page: PIE session: Adam (20 sty 2020, 17:45:09)
+[2020.01.20-15.45.09:229][680]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.45.09:232][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002255s)
+[2020.01.20-15.45.09:232][680]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.45.09:232][680]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2020.01.20-15.45.09:232][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003025s)
+[2020.01.20-15.45.09:268][680]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.45.09:310][680]LogInit: FAudioDevice initialized.
+[2020.01.20-15.45.09:341][680]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.45.09:342][680]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.45.09
+[2020.01.20-15.45.09:342][680]LogWorld: Bringing up level for play took: 0.000652
+[2020.01.20-15.45.09:355][680]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,115
+[2020.01.20-15.45.09:355][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.45.13:878][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.45.13:878][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.45.13:912][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.45.13:912][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.45.13:941][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.45.13:990][953]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.01.20-15.45.16:543][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-15.48.47:875][622]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.48.47:884][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.48.47:884][622]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.48.47:887][622]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.48.47:997][622]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2020.01.20-15.48.47:998][622]PIE: New page: PIE session: Adam (20 sty 2020, 17:48:47)
+[2020.01.20-15.48.47:998][622]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.48.48:000][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002148s)
+[2020.01.20-15.48.48:001][622]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.48.48:001][622]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2020.01.20-15.48.48:001][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003268s)
+[2020.01.20-15.48.48:039][622]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.48.48:081][622]LogInit: FAudioDevice initialized.
+[2020.01.20-15.48.48:113][622]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.48.48:114][622]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.48.48
+[2020.01.20-15.48.48:114][622]LogWorld: Bringing up level for play took: 0.000547
+[2020.01.20-15.48.48:127][622]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,658
+[2020.01.20-15.48.48:127][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.49.03:554][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.49.03:555][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.49.03:592][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.49.03:592][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.49.03:622][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.49.03:670][549]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.20-15.49.06:345][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-15.51.10:420][ 57]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::MakeRotator' [Nie można odnaleźć elementu.]
+[2020.01.20-15.56.05:112][693]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.56.05:122][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.56.05:122][693]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.56.05:125][693]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.56.05:237][693]LogPlayLevel: PlayLevel: Blueprint regeneration took 115 ms (1 blueprints)
+[2020.01.20-15.56.05:238][693]PIE: New page: PIE session: Adam (20 sty 2020, 17:56:05)
+[2020.01.20-15.56.05:238][693]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.56.05:240][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2020.01.20-15.56.05:241][693]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.56.05:241][693]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2020.01.20-15.56.05:241][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003077s)
+[2020.01.20-15.56.05:279][693]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.56.05:322][693]LogInit: FAudioDevice initialized.
+[2020.01.20-15.56.05:356][693]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.56.05:357][693]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.56.05
+[2020.01.20-15.56.05:358][693]LogWorld: Bringing up level for play took: 0.000805
+[2020.01.20-15.56.05:370][693]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,099
+[2020.01.20-15.56.05:370][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.56.48:346][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.56.48:346][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.56.48:384][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.56.48:384][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.56.48:414][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.56.48:466][230]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.20-15.56.51:799][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-15.58.00:488][408]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.58.00:497][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.58.00:497][408]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.58.00:500][408]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.58.00:610][408]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2020.01.20-15.58.00:610][408]PIE: New page: PIE session: Adam (20 sty 2020, 17:58:00)
+[2020.01.20-15.58.00:611][408]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.58.00:613][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002140s)
+[2020.01.20-15.58.00:614][408]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.58.00:614][408]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2020.01.20-15.58.00:614][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003382s)
+[2020.01.20-15.58.00:651][408]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.58.00:696][408]LogInit: FAudioDevice initialized.
+[2020.01.20-15.58.00:729][408]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.58.00:730][408]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.58.00
+[2020.01.20-15.58.00:730][408]LogWorld: Bringing up level for play took: 0.000626
+[2020.01.20-15.58.00:743][408]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,727
+[2020.01.20-15.58.00:743][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.58.15:434][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.58.15:434][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.58.15:469][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.58.15:469][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.58.15:497][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.58.15:550][291]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.01.20-15.58.19:119][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-15.58.58:387][786]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.58.58:396][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.58.58:396][786]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.58.58:399][786]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.58.58:509][786]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2020.01.20-15.58.58:510][786]PIE: New page: PIE session: Adam (20 sty 2020, 17:58:58)
+[2020.01.20-15.58.58:510][786]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.58.58:512][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002147s)
+[2020.01.20-15.58.58:513][786]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.58.58:513][786]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2020.01.20-15.58.58:513][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003222s)
+[2020.01.20-15.58.58:550][786]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.58.58:592][786]LogInit: FAudioDevice initialized.
+[2020.01.20-15.58.58:628][786]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.58.58:629][786]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.58.58
+[2020.01.20-15.58.58:629][786]LogWorld: Bringing up level for play took: 0.000654
+[2020.01.20-15.58.58:642][786]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 1,172
+[2020.01.20-15.58.58:642][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.59.02:784][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.59.02:784][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.59.02:817][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.59.02:817][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.59.02:847][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.59.02:901][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.01.20-15.59.08:159][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-15.59.40:982][259]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.59.40:992][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.59.40:992][259]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-15.59.40:995][259]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-15.59.41:102][259]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2020.01.20-15.59.41:102][259]PIE: New page: PIE session: Adam (20 sty 2020, 17:59:41)
+[2020.01.20-15.59.41:102][259]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-15.59.41:104][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002143s)
+[2020.01.20-15.59.41:105][259]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-15.59.41:105][259]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2020.01.20-15.59.41:105][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.002828s)
+[2020.01.20-15.59.41:143][259]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-15.59.41:184][259]LogInit: FAudioDevice initialized.
+[2020.01.20-15.59.41:219][259]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-15.59.41:220][259]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-16.59.41
+[2020.01.20-15.59.41:221][259]LogWorld: Bringing up level for play took: 0.000647
+[2020.01.20-15.59.41:233][259]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,236
+[2020.01.20-15.59.41:233][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.59.45:491][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.59.45:491][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.59.45:524][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.59.45:524][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-15.59.45:550][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.59.45:602][516]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.20-15.59.47:660][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-16.00.20:767][534]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-16.00.20:776][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-16.00.20:777][534]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-16.00.20:779][534]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-16.00.20:890][534]LogPlayLevel: PlayLevel: Blueprint regeneration took 112 ms (1 blueprints)
+[2020.01.20-16.00.20:890][534]PIE: New page: PIE session: Adam (20 sty 2020, 18:00:20)
+[2020.01.20-16.00.20:890][534]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-16.00.20:893][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002043s)
+[2020.01.20-16.00.20:893][534]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-16.00.20:893][534]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2020.01.20-16.00.20:893][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.002746s)
+[2020.01.20-16.00.20:935][534]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-16.00.20:976][534]LogInit: FAudioDevice initialized.
+[2020.01.20-16.00.21:009][534]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-16.00.21:010][534]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-17.00.21
+[2020.01.20-16.00.21:010][534]LogWorld: Bringing up level for play took: 0.000705
+[2020.01.20-16.00.21:023][534]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,447
+[2020.01.20-16.00.21:023][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-16.00.24:515][743]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-16.00.24:515][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-16.00.24:555][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-16.00.24:555][743]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-16.00.24:584][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-16.00.24:618][744]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.20-16.00.26:660][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-16.00.46:279][987]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-16.00.46:289][987]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-16.00.46:289][987]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.20-16.00.46:291][987]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.20-16.00.46:401][987]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2020.01.20-16.00.46:401][987]PIE: New page: PIE session: Adam (20 sty 2020, 18:00:46)
+[2020.01.20-16.00.46:401][987]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.20-16.00.46:403][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002142s)
+[2020.01.20-16.00.46:404][987]LogAIModule: Creating AISystem for world Adam
+[2020.01.20-16.00.46:404][987]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2020.01.20-16.00.46:404][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.002863s)
+[2020.01.20-16.00.46:443][987]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-16.00.46:484][987]LogInit: FAudioDevice initialized.
+[2020.01.20-16.00.46:520][987]LogLoad: Game class is 'GameModeBase'
+[2020.01.20-16.00.46:521][987]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.20-17.00.46
+[2020.01.20-16.00.46:521][987]LogWorld: Bringing up level for play took: 0.000630
+[2020.01.20-16.00.46:534][987]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 1,064
+[2020.01.20-16.00.46:534][987]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-16.01.17:725][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-16.01.17:725][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-16.01.17:760][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-16.01.17:760][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.20-16.01.17:787][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-16.01.17:838][859]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.20-16.01.23:280][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-16.02.13:190][ 64]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Adam_Auto4A1190CFB4C40D7A94513859415B88641.tmp' to '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Autosaves/Game/StarterContent/Maps/Adam_Auto4.umap'
+[2020.01.20-16.02.13:193][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Adam' took 0.146
+[2020.01.20-16.02.13:194][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.146
+[2020.01.20-16.02.36:218][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-16.07.08:127][333]LogSlate: Window 'Adam* - Level Blueprint Editor' being destroyed
+[2020.01.20-16.07.08:133][333]LogSlate: Window 'Adam* - Level Blueprint Editor' being destroyed
+[2020.01.20-16.07.10:996][487]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Saved/Adam1013A478492A3A7272DD5CB0BC259DF1.tmp' to '../../../../../../Users/torra/Documents/Unreal Projects/ProjektAdamK/Content/StarterContent/Maps/Adam.umap'
+[2020.01.20-16.07.11:014][487]LogFileHelpers: Saving map 'Adam' took 0.238
+[2020.01.20-16.07.40:987][269]LogSlate: Window 'ProjektAdamK - Unreal Editor' being destroyed
+[2020.01.20-16.07.40:988][269]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.20-16.07.41:158][270]Cmd: QUIT_EDITOR
+[2020.01.20-16.07.41:421][270]LogExit: Preparing to exit.
+[2020.01.20-16.07.42:428][270]LogExit: Editor shut down
+[2020.01.20-16.07.42:428][270]LogExit: Transaction tracking system shut down
+[2020.01.20-16.07.42:703][270]LogExit: Object subsystem successfully closed.
+[2020.01.20-16.07.42:733][270]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.20-16.07.42:737][270]LogD3D11RHI: Shutdown
+[2020.01.20-16.07.42:737][270]LogD3D11RHI: CleanupD3DDevice
+[2020.01.20-16.07.42:739][270]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.20-16.07.42:755][270]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2020.01.20-16.07.42:755][270]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2020.01.20-16.07.42:755][270]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2020.01.20-16.07.42:756][270]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2020.01.20-16.07.42:757][270]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2020.01.20-16.07.44:641][270]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2020.01.20-16.07.44:642][270]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2020.01.20-16.07.44:642][270]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2020.01.20-16.07.44:642][270]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2020.01.20-16.07.44:642][270]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2020.01.20-16.07.44:642][270]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2020.01.20-16.07.44:642][270]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2020.01.20-16.07.44:642][270]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2020.01.20-16.07.44:642][270]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2020.01.20-16.07.44:704][270]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2020.01.20-16.07.44:707][270]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2020.01.20-16.07.44:707][270]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2020.01.20-16.07.44:707][270]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2020.01.20-16.07.44:707][270]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2020.01.20-16.07.44:707][270]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2020.01.20-16.07.44:707][270]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2020.01.20-16.07.44:707][270]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2020.01.20-16.07.44:708][270]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2020.01.20-16.07.44:762][270]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2020.01.20-16.07.44:765][270]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.01.20-16.07.44:765][270]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.01.20-16.07.44:765][270]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.01.20-16.07.44:765][270]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.01.20-16.07.44:765][270]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.01.20-16.07.44:765][270]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.01.20-16.07.44:766][270]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.01.20-16.07.44:767][270]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.01.20-16.07.44:868][270]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.01.20-16.07.44:969][270]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.01.20-16.07.44:969][270]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.01.20-16.07.44:969][270]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.01.20-16.07.44:969][270]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.01.20-16.07.44:969][270]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.01.20-16.07.44:969][270]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.01.20-16.07.44:969][270]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.01.20-16.07.44:970][270]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.01.20-16.07.44:970][270]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.01.20-16.07.44:970][270]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.01.20-16.07.44:970][270]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.01.20-16.07.44:970][270]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.01.20-16.07.44:971][270]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.01.20-16.07.44:971][270]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.20-16.07.44:971][270]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.01.20-16.07.44:971][270]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.01.20-16.07.44:971][270]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.01.20-16.07.44:971][270]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2020.01.20-16.07.44:972][270]LogModuleManager: Shutting down and abandoning module Media (243)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2020.01.20-16.07.44:978][270]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2020.01.20-16.07.44:979][270]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2020.01.20-16.07.44:979][270]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2020.01.20-16.07.44:979][270]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2020.01.20-16.07.44:979][270]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2020.01.20-16.07.44:979][270]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.01.20-16.07.44:980][270]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.01.20-16.07.44:981][270]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2020.01.20-16.07.44:981][270]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.01.20-16.07.44:981][270]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2020.01.20-16.07.44:981][270]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2020.01.20-16.07.44:981][270]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2020.01.20-16.07.44:981][270]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2020.01.20-16.07.44:981][270]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2020.01.20-16.07.45:045][270]LogDerivedDataCache: Shutdown
+[2020.01.20-16.07.45:045][270]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.01.20-16.07.45:046][270]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2020.01.20-16.07.45:048][270]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.01.20-16.07.45:048][270]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.01.20-16.07.45:049][270]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2020.01.20-16.07.45:049][270]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2020.01.20-16.07.45:059][270]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2020.01.20-16.07.45:059][270]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2020.01.20-16.07.45:059][270]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2020.01.20-16.07.45:059][270]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2020.01.20-16.07.45:060][270]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2020.01.20-16.07.45:082][270]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2020.01.20-16.07.45:082][270]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.20-16.07.45:082][270]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B88047380-4AE6-B182-DED4-DEADC4A4D3F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=20b5a1354a8c15e0e8c66bb2a3058456%7Ce6512cb8604744178bf061b68307babf%7C03918e10-f6b0-4481-8214-2069b30b7b9f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.20-16.07.45:088][270]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.01.20-16.07.45:089][270]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.01.20-16.07.45:089][270]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.01.20-16.07.45:090][270]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.01.20-16.07.45:100][270]LogExit: Exiting.
+[2020.01.20-16.07.45:103][270]Log file closed, 01/20/20 17:07:45
