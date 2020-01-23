@@ -800,3 +800,836 @@ LogInit: Object subsystem initialized
 [2020.01.23-17.35.09:426][301]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2020.01.23-17.35.09:932][331]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
 [2020.01.23-17.35.10:268][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-17.39.00:395][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.39.04:714][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.39.09:787][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.39.17:282][110]LogEditorViewport: Clicking Background
+[2020.01.23-17.39.22:255][403]LogEditorViewport: Clicking Background
+[2020.01.23-17.39.45:152][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.39.46:204][837]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_791, Buffer: 604c55d0, Buffer Size: 0, Element: 0
+[2020.01.23-17.39.46:205][837]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_792, Buffer: 604c55d0, Buffer Size: 0, Element: 0
+[2020.01.23-17.39.46:205][837]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_792, Buffer: 604c55d0, Buffer Size: 0, Element: 1
+[2020.01.23-17.39.46:205][837]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_793, Buffer: 604c55d0, Buffer Size: 0, Element: 0
+[2020.01.23-17.39.46:205][837]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_795, Buffer: 604c55d0, Buffer Size: 0, Element: 0
+[2020.01.23-17.39.46:205][837]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_795' invalid (342 verts, 0 indices).
+[2020.01.23-17.39.46:205][837]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_795.BodySetup_0 when we are unable to.
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_796, Buffer: 604c55d0, Buffer Size: 0, Element: 0
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_796' invalid (342 verts, 0 indices).
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_796.BodySetup_0 when we are unable to.
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_797, Buffer: 604c55d0, Buffer Size: 0, Element: 0
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_797' invalid (342 verts, 0 indices).
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_797.BodySetup_0 when we are unable to.
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_798, Buffer: 604c55d0, Buffer Size: 0, Element: 0
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_798' invalid (342 verts, 0 indices).
+[2020.01.23-17.39.46:206][837]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_798.BodySetup_0 when we are unable to.
+[2020.01.23-17.41.04:589][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.42.19:114][997]LogSlate: Window 'Select Path' being destroyed
+[2020.01.23-17.42.19:231][997]LogStaticMesh: Building static mesh Maze_01...
+[2020.01.23-17.42.19:245][997]LogStaticMesh: Built static mesh [0.01s] /Game/mazes/Maze_01.Maze_01
+[2020.01.23-17.42.19:250][997]LogActorFactory: Actor Factory created Maze_01
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush6' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush7' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush-Floor' is marked pending kill and cannot be converted
+[2020.01.23-17.42.19:273][997]EditorErrors: New page: Actor Reattachment
+[2020.01.23-17.42.49:732][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-17.42.53:257][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.43.00:982][491]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/mazes/Maze_01.Maze_01
+[2020.01.23-17.43.01:521][491]LogRenderer: Reallocating scene render targets to support 1100x648 Format 10 NumSamples 1 (Frame:1).
+[2020.01.23-17.43.01:521][491]LogSlate: Took 0.002786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.23-17.43.29:776][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.44.12:913][760]LogSlate: Window 'Maze_01*' being destroyed
+[2020.01.23-17.44.12:920][760]LogSlate: Window 'Maze_01*' being destroyed
+[2020.01.23-17.45.27:861][237]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Saved/Adam_Auto43DABF77F4A368FA4F0C72D94F943B4DC.tmp' to '../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Saved/Autosaves/Game/StarterContent/Maps/Adam_Auto4.umap'
+[2020.01.23-17.45.27:865][237]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Adam' took 0.110
+[2020.01.23-17.45.27:865][237]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.110
+[2020.01.23-17.45.27:867][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mazes/Maze_01] ([1] browsable assets)...
+[2020.01.23-17.45.27:878][237]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/mazes/Maze_01.Maze_01]
+[2020.01.23-17.45.27:878][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/mazes/Maze_01]
+[2020.01.23-17.45.27:878][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mazes/Maze_01" FILE="../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Saved/Autosaves/Game/mazes/Maze_01_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.01.23-17.45.27:889][237]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Saved/Maze_01_Auto42D6DD95E4E9CCDFB21891B91438222BB.tmp' to '../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Saved/Autosaves/Game/mazes/Maze_01_Auto4.uasset'
+[2020.01.23-17.45.27:890][237]LogFileHelpers: Auto-saving content packages took 0.024
+[2020.01.23-17.47.46:018][494]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/mazes/Maze_01.Maze_01
+[2020.01.23-17.48.45:626][ 54]LogSlate: Window 'Maze_01*' being destroyed
+[2020.01.23-17.48.45:632][ 54]LogSlate: Window 'Maze_01*' being destroyed
+[2020.01.23-17.48.50:737][322]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Maze_01)
+[2020.01.23-17.48.50:780][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.48.51:781][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-17.48.54:031][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.48.56:533][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-17.48.56:540][661]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam
+[2020.01.23-17.48.57:056][661]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2020.01.23-17.48.57:697][661]LogSlate: Took 0.002458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.23-17.49.20:624][909]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.49.20:633][909]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.49.20:633][909]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.23-17.49.20:636][909]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.23-17.49.20:752][909]LogPlayLevel: PlayLevel: Blueprint regeneration took 118 ms (1 blueprints)
+[2020.01.23-17.49.20:752][909]PIE: New page: PIE session: Adam (23 sty 2020, 19:49:20)
+[2020.01.23-17.49.20:752][909]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.49.20:755][909]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002555s)
+[2020.01.23-17.49.20:756][909]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.49.20:756][909]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2020.01.23-17.49.20:756][909]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003361s)
+[2020.01.23-17.49.20:802][909]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.49.20:845][909]LogInit: FAudioDevice initialized.
+[2020.01.23-17.49.20:878][909]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.49.20:880][909]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.49.20
+[2020.01.23-17.49.20:880][909]LogWorld: Bringing up level for play took: 0.000537
+[2020.01.23-17.49.20:892][909]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,41
+[2020.01.23-17.49.20:892][909]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.49.21:506][944]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:523][945]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:624][951]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:640][952]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:657][953]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:673][954]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:691][955]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:707][956]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:724][957]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:741][958]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:757][959]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:774][960]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:790][961]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:807][962]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:824][963]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:841][964]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:856][965]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:874][966]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:890][967]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:907][968]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:924][969]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:940][970]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:957][971]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:974][972]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.21:990][973]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:007][974]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:024][975]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:041][976]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:057][977]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:074][978]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:090][979]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:108][980]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:124][981]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:141][982]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:158][983]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:174][984]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:190][985]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:207][986]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:224][987]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:241][988]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:257][989]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:274][990]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:290][991]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:308][992]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:324][993]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:341][994]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:358][995]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:373][996]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:390][997]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:408][998]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:424][999]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:440][  0]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:457][  1]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:473][  2]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:490][  3]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:507][  4]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:523][  5]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:540][  6]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:557][  7]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:574][  8]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:591][  9]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:607][ 10]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:624][ 11]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:640][ 12]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:657][ 13]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:674][ 14]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:690][ 15]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:706][ 16]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:790][ 21]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:807][ 22]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:824][ 23]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:840][ 24]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:857][ 25]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:874][ 26]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:891][ 27]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:907][ 28]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:924][ 29]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:941][ 30]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:957][ 31]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:974][ 32]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.22:990][ 33]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:007][ 34]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:024][ 35]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:041][ 36]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:058][ 37]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:073][ 38]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:090][ 39]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:107][ 40]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:124][ 41]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:140][ 42]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:157][ 43]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:174][ 44]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:190][ 45]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:207][ 46]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:224][ 47]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:240][ 48]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:257][ 49]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:274][ 50]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:290][ 51]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:307][ 52]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:324][ 53]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:341][ 54]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:358][ 55]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:374][ 56]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:390][ 57]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:407][ 58]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:424][ 59]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:440][ 60]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:457][ 61]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:474][ 62]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:490][ 63]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:507][ 64]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:524][ 65]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:540][ 66]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:557][ 67]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:574][ 68]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:590][ 69]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:607][ 70]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:624][ 71]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:641][ 72]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:657][ 73]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:674][ 74]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:690][ 75]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:706][ 76]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.23:990][ 93]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:006][ 94]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:023][ 95]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:040][ 96]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:057][ 97]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:073][ 98]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:090][ 99]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:107][100]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:123][101]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:140][102]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:156][103]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:174][104]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:273][110]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:290][111]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:307][112]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:324][113]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:340][114]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:358][115]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:374][116]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.24:390][117]PIE: Warning: Mobility of /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam:PersistentLevel.Maze_01 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.01.23-17.49.25:324][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.49.25:324][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.49.25:361][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.49.25:361][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.49.25:387][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.49.25:445][174]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.23-17.49.30:933][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-17.49.52:050][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.49.56:959][941]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.49.56:969][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.49.56:969][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.49.56:969][941]PIE: New page: PIE session: Adam (23 sty 2020, 19:49:56)
+[2020.01.23-17.49.56:969][941]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.49.56:972][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002475s)
+[2020.01.23-17.49.56:972][941]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.49.56:972][941]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2020.01.23-17.49.56:972][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003167s)
+[2020.01.23-17.49.57:017][941]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.49.57:058][941]LogInit: FAudioDevice initialized.
+[2020.01.23-17.49.57:086][941]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.49.57:088][941]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.49.57
+[2020.01.23-17.49.57:088][941]LogWorld: Bringing up level for play took: 0.000530
+[2020.01.23-17.49.57:101][941]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,62
+[2020.01.23-17.49.57:101][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.50.18:246][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.50.18:246][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.50.18:282][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.50.18:282][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.50.18:308][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.50.18:359][210]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.23-17.50.21:667][408]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.50.26:833][715]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.50.28:383][808]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.50.28:949][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.50.29:050][847]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.50.29:059][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.50.29:059][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.50.29:059][847]PIE: New page: PIE session: Adam (23 sty 2020, 19:50:29)
+[2020.01.23-17.50.29:059][847]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.50.29:063][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003340s)
+[2020.01.23-17.50.29:064][847]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.50.29:065][847]LogPlayLevel: PIE: World Init took: (0.001701s)
+[2020.01.23-17.50.29:065][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.005198s)
+[2020.01.23-17.50.29:113][847]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.50.29:153][847]LogInit: FAudioDevice initialized.
+[2020.01.23-17.50.29:185][847]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.50.29:186][847]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.50.29
+[2020.01.23-17.50.29:187][847]LogWorld: Bringing up level for play took: 0.000527
+[2020.01.23-17.50.29:199][847]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,717
+[2020.01.23-17.50.29:199][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.50.31:325][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.50.31:326][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.50.31:364][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.50.31:364][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.50.31:391][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.50.31:439][975]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.01.23-17.50.35:962][246]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.50.41:850][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.50.44:464][751]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.50.45:396][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.50.45:462][810]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.50.45:471][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.50.45:471][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.50.45:471][810]PIE: New page: PIE session: Adam (23 sty 2020, 19:50:45)
+[2020.01.23-17.50.45:472][810]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.50.45:474][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002538s)
+[2020.01.23-17.50.45:475][810]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.50.45:475][810]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2020.01.23-17.50.45:475][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003319s)
+[2020.01.23-17.50.45:523][810]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.50.45:563][810]LogInit: FAudioDevice initialized.
+[2020.01.23-17.50.45:595][810]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.50.45:596][810]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.50.45
+[2020.01.23-17.50.45:596][810]LogWorld: Bringing up level for play took: 0.000508
+[2020.01.23-17.50.45:609][810]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 1,127
+[2020.01.23-17.50.45:609][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.00:432][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.00:432][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.51.00:467][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.51.00:467][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.00:494][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.51.00:544][699]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.01.23-17.51.02:202][798]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.51.03:263][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.51.06:426][ 48]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.51.07:500][112]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.51.08:163][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.51.08:246][155]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.51.08:257][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.08:258][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.51.08:258][155]PIE: New page: PIE session: Adam (23 sty 2020, 19:51:08)
+[2020.01.23-17.51.08:258][155]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.51.08:261][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002683s)
+[2020.01.23-17.51.08:261][155]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.51.08:261][155]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2020.01.23-17.51.08:261][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003454s)
+[2020.01.23-17.51.08:306][155]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.51.08:347][155]LogInit: FAudioDevice initialized.
+[2020.01.23-17.51.08:377][155]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.51.08:379][155]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.51.08
+[2020.01.23-17.51.08:379][155]LogWorld: Bringing up level for play took: 0.000526
+[2020.01.23-17.51.08:392][155]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,09
+[2020.01.23-17.51.08:392][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.09:606][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.09:606][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.51.09:640][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.51.09:640][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.09:668][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.51.09:719][228]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.23-17.51.11:292][322]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.51.13:050][425]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.51.17:115][668]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.51.17:874][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.51.17:940][716]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.51.17:950][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.17:950][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.51.17:950][716]PIE: New page: PIE session: Adam (23 sty 2020, 19:51:17)
+[2020.01.23-17.51.17:950][716]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.51.17:953][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002623s)
+[2020.01.23-17.51.17:953][716]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.51.17:953][716]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2020.01.23-17.51.17:953][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003367s)
+[2020.01.23-17.51.18:000][716]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.51.18:041][716]LogInit: FAudioDevice initialized.
+[2020.01.23-17.51.18:070][716]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.51.18:071][716]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.51.18
+[2020.01.23-17.51.18:071][716]LogWorld: Bringing up level for play took: 0.000519
+[2020.01.23-17.51.18:084][716]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,398
+[2020.01.23-17.51.18:084][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.20:676][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.20:676][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.51.20:714][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.51.20:714][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.20:742][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.51.20:792][872]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.23-17.51.22:480][973]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.51.23:613][ 39]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.51.24:807][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.51.27:360][260]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.51.27:934][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.51.27:984][295]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.51.27:994][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.27:994][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.51.27:994][295]PIE: New page: PIE session: Adam (23 sty 2020, 19:51:27)
+[2020.01.23-17.51.27:994][295]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.51.27:997][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002584s)
+[2020.01.23-17.51.27:997][295]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.51.27:997][295]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2020.01.23-17.51.27:997][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003385s)
+[2020.01.23-17.51.28:044][295]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.51.28:085][295]LogInit: FAudioDevice initialized.
+[2020.01.23-17.51.28:114][295]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.51.28:115][295]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.51.28
+[2020.01.23-17.51.28:115][295]LogWorld: Bringing up level for play took: 0.000515
+[2020.01.23-17.51.28:128][295]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,354
+[2020.01.23-17.51.28:128][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.42:490][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.42:490][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.51.42:523][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.51.42:523][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.51.42:548][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.51.42:604][157]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.23-17.51.49:311][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.51.49:378][302]LogSlate: Window 'Adam* - Level Blueprint Editor' being destroyed
+[2020.01.23-17.51.49:392][302]LogSlate: Window 'Adam* - Level Blueprint Editor' being destroyed
+[2020.01.23-17.51.57:925][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-17.52.01:871][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.52.08:015][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-17.52.08:538][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-17.52.26:936][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.52.30:204][360]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-17.52.37:709][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.52.43:475][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.52.44:358][204]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush3)
+[2020.01.23-17.52.46:565][334]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-17.52.55:332][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.52.58:018][ 18]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-17.53.04:203][388]Cmd: TRANSACTION UNDO
+[2020.01.23-17.53.04:203][388]LogEditorTransaction: Undo Brush Add
+[2020.01.23-17.53.05:204][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.53.21:267][393]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-17.53.21:268][393]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-17.53.21:296][393]LogEditorActor: Deleted 2 Actors (0.032 secs)
+[2020.01.23-17.53.27:579][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-17.53.30:579][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.54.07:363][114]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-17.54.08:319][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-17.54.10:905][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.54.12:321][404]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-17.54.17:141][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-17.54.20:545][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.01.23-17.54.28:679][379]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.28:679][379]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.28:876][390]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.28:876][390]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.29:040][399]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.29:040][399]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.29:212][408]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.29:212][408]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.29:352][416]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.29:352][416]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.29:507][425]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.29:507][425]LogEditorTransaction: Undo Brush Subtract
+[2020.01.23-17.54.29:674][435]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.29:674][435]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.29:818][443]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.29:818][443]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.29:988][453]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.29:988][453]LogEditorTransaction: Undo Set Actor Visibility
+[2020.01.23-17.54.30:141][462]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.30:141][462]LogEditorTransaction: Undo Set Actor Visibility
+[2020.01.23-17.54.30:281][470]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.30:281][470]LogEditorTransaction: Undo Edit Hollow
+[2020.01.23-17.54.30:454][480]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.30:454][480]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.30:612][487]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.30:612][487]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.30:784][497]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.30:784][497]LogEditorTransaction: Undo Set Actor Visibility
+[2020.01.23-17.54.30:923][505]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.30:923][505]LogEditorTransaction: Undo Set Actor Visibility
+[2020.01.23-17.54.31:093][515]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.31:093][515]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.31:277][526]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.31:277][526]LogEditorTransaction: Undo Delete selection
+[2020.01.23-17.54.31:451][536]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.31:452][536]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.31:622][546]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.31:622][546]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.31:809][557]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.31:809][557]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.31:979][567]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.31:979][567]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.32:150][577]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.32:150][577]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.32:353][589]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.32:353][589]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.32:520][599]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.32:520][599]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.32:707][610]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.32:707][610]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.32:709][610]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2020.01.23-17.54.32:881][620]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.32:881][620]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.33:042][629]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.33:042][629]LogEditorTransaction: Undo Scale Actors
+[2020.01.23-17.54.33:045][629]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2020.01.23-17.54.33:234][640]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.33:234][640]LogEditorTransaction: Undo Scale Actors
+[2020.01.23-17.54.33:236][640]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2020.01.23-17.54.33:423][651]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.33:423][651]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.33:427][651]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2020.01.23-17.54.33:598][661]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.33:598][661]LogEditorTransaction: Undo Brush Subtract
+[2020.01.23-17.54.33:766][671]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.33:766][671]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.33:965][683]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.33:965][683]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.34:132][693]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.34:132][693]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.34:315][704]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.34:315][704]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.34:515][716]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.34:515][716]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.34:663][723]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.34:663][723]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.34:847][734]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.34:847][734]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.35:014][744]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.35:014][744]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.35:180][754]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.35:180][754]LogEditorTransaction: Undo Rotate Actors
+[2020.01.23-17.54.35:381][766]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.35:381][766]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.35:547][776]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.35:547][776]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.35:714][786]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.35:714][786]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.35:898][797]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.35:898][797]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.36:081][808]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.36:081][808]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.36:230][817]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.36:230][817]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.36:431][829]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.36:431][829]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.36:598][839]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.36:598][839]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.36:781][850]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.36:781][850]LogEditorTransaction: Undo Rotate Actors
+[2020.01.23-17.54.37:413][888]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.37:413][888]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.37:614][900]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.37:614][900]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.37:797][911]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.37:797][911]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.54.37:997][923]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.37:997][923]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.38:180][934]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.38:180][934]LogEditorTransaction: Undo Edit Mobility
+[2020.01.23-17.54.38:347][944]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.38:348][944]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.38:564][957]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.38:564][957]LogEditorTransaction: Undo Move Node
+[2020.01.23-17.54.38:730][967]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.38:730][967]LogEditorTransaction: Undo Move Node
+[2020.01.23-17.54.38:898][977]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.38:898][977]LogEditorTransaction: Undo Create Pin Link
+[2020.01.23-17.54.39:097][989]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.39:097][989]LogEditorTransaction: Undo Create Pin Link
+[2020.01.23-17.54.39:264][999]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.39:264][999]LogEditorTransaction: Undo Move Node
+[2020.01.23-17.54.39:464][ 11]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.39:464][ 11]LogEditorTransaction: Undo Move Node
+[2020.01.23-17.54.39:631][ 21]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.39:631][ 21]LogEditorTransaction: Undo Add Node
+[2020.01.23-17.54.39:797][ 31]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.39:797][ 31]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.40:002][ 42]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.40:002][ 42]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.01.23-17.54.40:168][ 52]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.40:168][ 52]LogEditorTransaction: Undo Edit Collision Complexity
+[2020.01.23-17.54.40:351][ 63]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.40:351][ 63]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.40:555][ 75]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.40:555][ 75]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.40:758][ 86]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.40:758][ 86]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.40:944][ 97]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.40:944][ 97]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.41:114][106]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.41:114][106]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.41:314][118]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.41:314][118]LogEditorTransaction: Undo Convert Actors
+[2020.01.23-17.54.41:498][127]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.41:499][127]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.41:687][138]Cmd: TRANSACTION UNDO
+[2020.01.23-17.54.41:687][138]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-17.54.49:194][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.54.57:250][ 64]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-17.54.57:280][ 64]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.01.23-17.55.34:051][265]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_801, Buffer: 8d40e4d0, Buffer Size: 0, Element: 17
+[2020.01.23-17.55.34:051][265]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_801, Buffer: 8d40e4d0, Buffer Size: 0, Element: 18
+[2020.01.23-17.55.34:051][265]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_801, Buffer: 8d40e4d0, Buffer Size: 0, Element: 19
+[2020.01.23-17.55.34:051][265]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_801, Buffer: 8d40e4d0, Buffer Size: 0, Element: 20
+[2020.01.23-17.55.34:051][265]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_801, Buffer: 8d40e4d0, Buffer Size: 0, Element: 21
+[2020.01.23-17.55.34:051][265]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_801, Buffer: 8d40e4d0, Buffer Size: 0, Element: 22
+[2020.01.23-17.55.34:051][265]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_801, Buffer: 8d40e4d0, Buffer Size: 0, Element: 23
+[2020.01.23-17.55.34:051][265]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.ModelComponent_801, Buffer: 8d40e4d0, Buffer Size: 0, Element: 24
+[2020.01.23-17.55.40:246][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.56.04:184][ 65]LogSlate: Window 'Select Path' being destroyed
+[2020.01.23-17.56.04:291][ 65]LogStaticMesh: Building static mesh Maze_02...
+[2020.01.23-17.56.04:308][ 65]LogStaticMesh: Built static mesh [0.02s] /Game/mazes/Maze_02.Maze_02
+[2020.01.23-17.56.04:312][ 65]LogActorFactory: Actor Factory created Maze_02
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush0' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush6' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush7' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.BoxBrush-Floor' is marked pending kill and cannot be converted
+[2020.01.23-17.56.04:337][ 65]EditorErrors: New page: Actor Reattachment
+[2020.01.23-17.56.11:653][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.56.11:832][509]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/mazes/Maze_02.Maze_02
+[2020.01.23-17.56.12:069][509]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:1).
+[2020.01.23-17.56.55:758][ 85]LogSlate: Window 'Maze_02*' being destroyed
+[2020.01.23-17.56.55:766][ 85]LogSlate: Window 'Maze_02*' being destroyed
+[2020.01.23-17.57.02:092][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.57.07:334][771]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam
+[2020.01.23-17.57.23:233][667]LogSlate: Window 'Adam* - Level Blueprint Editor' being destroyed
+[2020.01.23-17.57.23:237][667]LogSlate: Window 'Adam* - Level Blueprint Editor' being destroyed
+[2020.01.23-17.57.24:478][739]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.57.24:488][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.57.24:488][739]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.01.23-17.57.24:490][739]LogPlayLevel: [PlayLevel] Compiling Adam before play...
+[2020.01.23-17.57.24:611][739]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (1 blueprints)
+[2020.01.23-17.57.24:612][739]PIE: New page: PIE session: Adam (23 sty 2020, 19:57:24)
+[2020.01.23-17.57.24:612][739]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.57.24:614][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002405s)
+[2020.01.23-17.57.24:614][739]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.57.24:615][739]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2020.01.23-17.57.24:615][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003150s)
+[2020.01.23-17.57.24:661][739]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.57.24:704][739]LogInit: FAudioDevice initialized.
+[2020.01.23-17.57.24:734][739]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.57.24:736][739]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.57.24
+[2020.01.23-17.57.24:736][739]LogWorld: Bringing up level for play took: 0.000531
+[2020.01.23-17.57.24:748][739]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,267
+[2020.01.23-17.57.24:748][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.57.37:142][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.57.37:142][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.57.37:177][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.57.37:177][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.57.37:205][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.57.37:258][485]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.23-17.57.39:124][597]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.57.40:509][678]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.57.43:497][857]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.57.47:278][ 83]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.57.48:847][176]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.57.52:333][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.57.56:664][642]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.57.57:886][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.57.58:236][735]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.57.58:245][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.57.58:245][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.57.58:246][735]PIE: New page: PIE session: Adam (23 sty 2020, 19:57:58)
+[2020.01.23-17.57.58:246][735]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.57.58:248][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002244s)
+[2020.01.23-17.57.58:249][735]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.57.58:249][735]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2020.01.23-17.57.58:249][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003640s)
+[2020.01.23-17.57.58:296][735]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.57.58:337][735]LogInit: FAudioDevice initialized.
+[2020.01.23-17.57.58:366][735]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.57.58:368][735]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.57.58
+[2020.01.23-17.57.58:368][735]LogWorld: Bringing up level for play took: 0.000559
+[2020.01.23-17.57.58:380][735]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam -0,101
+[2020.01.23-17.57.58:381][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.01:328][911]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.01:328][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.01:360][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.58.01:360][911]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.01:387][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.01:432][914]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.01.23-17.58.03:569][ 42]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.58.04:760][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.58.09:517][395]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.58.10:497][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.58.10:581][458]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.58.10:591][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.10:591][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.58.10:591][458]PIE: New page: PIE session: Adam (23 sty 2020, 19:58:10)
+[2020.01.23-17.58.10:591][458]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.58.10:593][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002276s)
+[2020.01.23-17.58.10:594][458]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.58.10:594][458]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2020.01.23-17.58.10:594][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003019s)
+[2020.01.23-17.58.10:638][458]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.58.10:679][458]LogInit: FAudioDevice initialized.
+[2020.01.23-17.58.10:710][458]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.58.10:712][458]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.58.10
+[2020.01.23-17.58.10:712][458]LogWorld: Bringing up level for play took: 0.000533
+[2020.01.23-17.58.10:725][458]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,243
+[2020.01.23-17.58.10:725][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.14:352][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.14:352][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.14:382][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.58.14:382][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.14:405][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.14:462][678]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.01.23-17.58.18:228][904]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.58.19:479][977]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.58.21:549][101]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.58.23:051][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.58.23:101][193]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.58.23:111][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.23:111][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.58.23:111][193]PIE: New page: PIE session: Adam (23 sty 2020, 19:58:23)
+[2020.01.23-17.58.23:111][193]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.58.23:113][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002209s)
+[2020.01.23-17.58.23:114][193]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.58.23:115][193]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2020.01.23-17.58.23:115][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003904s)
+[2020.01.23-17.58.23:160][193]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.58.23:199][193]LogInit: FAudioDevice initialized.
+[2020.01.23-17.58.23:229][193]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.58.23:231][193]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.58.23
+[2020.01.23-17.58.23:231][193]LogWorld: Bringing up level for play took: 0.000585
+[2020.01.23-17.58.23:244][193]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,762
+[2020.01.23-17.58.23:244][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.30:777][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.30:777][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.30:808][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.58.30:808][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.30:835][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.30:891][647]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.23-17.58.31:909][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_02)
+[2020.01.23-17.58.39:002][130]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.23-17.58.39:402][153]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.58.41:923][302]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.58.43:612][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.58.48:499][694]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.58.49:266][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.58.49:299][741]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.58.49:309][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.49:309][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.58.49:309][741]PIE: New page: PIE session: Adam (23 sty 2020, 19:58:49)
+[2020.01.23-17.58.49:309][741]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.58.49:311][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002514s)
+[2020.01.23-17.58.49:312][741]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.58.49:313][741]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2020.01.23-17.58.49:313][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003830s)
+[2020.01.23-17.58.49:360][741]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.58.49:401][741]LogInit: FAudioDevice initialized.
+[2020.01.23-17.58.49:428][741]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.58.49:430][741]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.58.49
+[2020.01.23-17.58.49:430][741]LogWorld: Bringing up level for play took: 0.000582
+[2020.01.23-17.58.49:443][741]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,961
+[2020.01.23-17.58.49:443][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.52:543][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.58.52:593][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.52:594][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.52:629][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.58.52:629][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.58.52:656][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.58.52:703][932]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.23-17.58.58:305][268]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.59.00:116][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.59.01:711][469]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.59.02:804][534]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.59.03:768][591]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.59.04:314][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.59.04:347][625]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.59.04:357][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.04:357][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.59.04:357][625]PIE: New page: PIE session: Adam (23 sty 2020, 19:59:04)
+[2020.01.23-17.59.04:357][625]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.59.04:361][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003267s)
+[2020.01.23-17.59.04:361][625]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.59.04:362][625]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2020.01.23-17.59.04:362][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.004200s)
+[2020.01.23-17.59.04:405][625]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.59.04:445][625]LogInit: FAudioDevice initialized.
+[2020.01.23-17.59.04:472][625]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.59.04:474][625]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.59.04
+[2020.01.23-17.59.04:474][625]LogWorld: Bringing up level for play took: 0.000570
+[2020.01.23-17.59.04:487][625]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,006
+[2020.01.23-17.59.04:487][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.06:801][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.06:801][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.59.06:836][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.59.06:836][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.06:860][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.59.06:904][766]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.23-17.59.11:122][ 19]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.01.23-17.59.15:445][277]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.23-17.59.16:171][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.59.16:588][344]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.59.16:598][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.16:598][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.59.16:598][344]PIE: New page: PIE session: Adam (23 sty 2020, 19:59:16)
+[2020.01.23-17.59.16:598][344]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.59.16:601][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002358s)
+[2020.01.23-17.59.16:602][344]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.59.16:602][344]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2020.01.23-17.59.16:602][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.004011s)
+[2020.01.23-17.59.16:655][344]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.59.16:702][344]LogInit: FAudioDevice initialized.
+[2020.01.23-17.59.16:729][344]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.59.16:731][344]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.59.16
+[2020.01.23-17.59.16:731][344]LogWorld: Bringing up level for play took: 0.000551
+[2020.01.23-17.59.16:744][344]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,262
+[2020.01.23-17.59.16:744][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.18:200][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.18:200][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.59.18:236][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-17.59.18:237][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.18:262][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-17.59.18:308][433]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.23-17.59.22:164][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-17.59.27:705][994]Cmd: TRANSACTION UNDO
+[2020.01.23-17.59.27:705][994]LogEditorTransaction: Undo Move Actors
+[2020.01.23-17.59.37:081][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_02)
+[2020.01.23-17.59.38:114][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-17.59.42:181][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_02)
+[2020.01.23-17.59.45:903][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-17.59.52:383][457]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-17.59.52:393][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-17.59.52:393][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-17.59.52:393][457]PIE: New page: PIE session: Adam (23 sty 2020, 19:59:52)
+[2020.01.23-17.59.52:393][457]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Adam
+[2020.01.23-17.59.52:396][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002548s)
+[2020.01.23-17.59.52:397][457]LogAIModule: Creating AISystem for world Adam
+[2020.01.23-17.59.52:397][457]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2020.01.23-17.59.52:397][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Adam.Adam to /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam (0.003807s)
+[2020.01.23-17.59.52:442][457]LogInit: XAudio2 using 'Głośniki (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-17.59.52:481][457]LogInit: FAudioDevice initialized.
+[2020.01.23-17.59.52:512][457]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-17.59.52:514][457]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Adam.Adam up for play (max tick rate 60) at 2020.01.23-18.59.52
+[2020.01.23-17.59.52:514][457]LogWorld: Bringing up level for play took: 0.000586
+[2020.01.23-17.59.52:527][457]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Adam 0,045
+[2020.01.23-17.59.52:527][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-18.00.46:854][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-18.00.46:854][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.00.46:890][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-18.00.46:890][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam' with GeneratedClass '/Game/StarterContent/Maps/Adam.Adam_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam'
+[2020.01.23-18.00.46:917][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-18.00.46:960][718]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.23-18.00.48:733][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.00.49:830][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-18.00.50:066][887]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Saved/Adam414EAD874EE56824233EC3BE8DE0B0C1.tmp' to '../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Content/StarterContent/Maps/Adam.umap'
+[2020.01.23-18.00.50:085][887]LogFileHelpers: Saving map 'Adam' took 0.243
+[2020.01.23-18.00.50:100][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mazes/Maze_02" FILE="../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Content/mazes/Maze_02.uasset" SILENT=true
+[2020.01.23-18.00.50:110][887]LogSavePackage: Moving '../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Saved/Maze_02B6D04F1646903003EBCE21AA719D4F6E.tmp' to '../../../../../../Users/torra/Documents/Unreal/ProjektAdamK/Content/mazes/Maze_02.uasset'
+[2020.01.23-18.01.16:087][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.23-18.01.17:172][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-18.02.47:454][267]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Adam.Adam:PersistentLevel.Adam
+[2020.01.23-18.03.42:222][335]LogSlate: Window 'Adam - Level Blueprint Editor' being destroyed
+[2020.01.23-18.03.42:229][335]LogSlate: Window 'Adam - Level Blueprint Editor' being destroyed
